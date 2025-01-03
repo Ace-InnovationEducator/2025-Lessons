@@ -1,4 +1,4 @@
-# Lesson Plan: [Lesson Title]
+# Lesson Plan: Genius of All Trades
 
 ## **Duration:**
 [State the time required for the lesson]
